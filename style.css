@@ -18,16 +18,26 @@ h4 {
 }
 
 div{
-    border: 1px solid black;
+/*    border: 1px solid black;*/
 }
 
-div.grpah_area{
+div.graph_area{
   display: flex;
   flex-direction: row;
   max-width: 90%;
   max-height: 90%;
   margin: 0px 50px 0px 50px;
-  border: 1px solid black;
+/*  border: 1px solid black;*/
+}
+
+div.controls_area{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 90%;
+  max-height: 90%;
+  margin: 10px 50px 10px 50px;
+/*  border: 1px solid black;*/
 }
 
 .graph1_area{
@@ -53,6 +63,12 @@ p
   margin: 20px 20px 20px 20px;
 }
 
+p.controls_area
+{
+  font-size: 15px;
+  margin: 0px 0px 0px 0px;
+}
+
 svg
 {
   max-width: 100%;
@@ -67,4 +83,9 @@ rect.color_this
 rect.dont_color_this
 {
   fill: #e5f7ff;
+}
+
+.select
+{
+  justify-content: center;
 }
