@@ -8,12 +8,45 @@ body
   text-align: justify;
   text-justify: inter-word;
 }
+header
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid rgb(94,94,94);
+  opacity: 0.9;
+
+}
+
+.logo_space img
+{
+  width: 30%;
+  height: 30%;
+  margin-left: 5px;
+  padding-right: 10px;
+  margin: 20px 20px 0px 20px;
+
+}
+
 h1 {
   font-size: 50px;
-  margin: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  color: rgb(94,94,94);
+  font-weight:normal;
+  text-align: left;
+}
+h2 {
+  font-size: 30px;
+  margin: 0px 50px 0px 50px;
+}
+h3 {
+  font-size: 20px;
+  margin: 0px 50px 0px 50px;
 }
 h4 {
-  font-size: 13px;
+  font-size: 10px;
   margin: 0px 50px 0px 50px;
 }
 
@@ -27,7 +60,8 @@ div.graph_area{
   max-width: 90%;
   max-height: 90%;
   margin: 0px 50px 0px 50px;
-/*  border: 1px solid black;*/
+/*  background-color: #e9e9e9;
+  border: 1px solid black;*/
 }
 
 div.controls_area{
@@ -56,7 +90,6 @@ div.controls_area{
   z-index: 4;
 }
 
-
 p
 {
   font-size: 20px;
@@ -77,7 +110,7 @@ svg
 
 rect.color_this
 {
-  fill: #32bfff;
+  fill: #57bf9d;
 }
 
 rect.dont_color_this

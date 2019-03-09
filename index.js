@@ -30,10 +30,11 @@ function aux_filter(data_value, filter_list){
   return aux;
 }
 
-function find_in_object(my_object, my_criteria){
-  return my_object.filter(function(obj) {
-    return Object.keys(my_criteria).every(function(c) {
-      return obj[c] == my_criteria[c];});
+//This function filters the data set based on a criteria and my reference is Stackoverflow.
+function find_in_object(data, criteria){
+  return data.filter(function(d) {
+    return Object.keys(criteria).every(function(c) {
+      return d[c] == criteria[c];});
   });
 }
 
@@ -132,7 +133,6 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
   var squareSize = total/(columns*rows);
   var units = get_units(data_ENIF2018,indicator);
   var data_points = gen_points_data(rows,columns,squareSize,units);
-//  var svg_name = d3.select(svg_area).append("svg").attr("width",width).attr("height",height);
 
   svg_name.selectAll("rect")
       .data(data_points)
@@ -142,7 +142,14 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
       .attr("y",function(d){return yScale(d[1]);})
       .attr("width", (plotWidth-margin.left)/(rows+1)-1)
       .attr("height", (plotHeight-margin.bottom)/(columns+1)-1)
-      .attr("class",function(d){return d[5];});
+      .attr("class",function(d){return d[5];})
+      .append("title")
+          .text(function(d){
+            var aux="";
+            if(d[5]=="color_this"){aux = "Estimated inhabitants with the service: "+numberWithCommas(units);}
+            else {aux = "Estimated inhabitants without the service: "+numberWithCommas(total-units);};
+            return aux;
+            });
 
   svg_name.append("text")
       .attr("y",1.05*plotHeight)
@@ -168,7 +175,6 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
       .style("font-size", "14px")
       .text(svg_title);
 
-//return svg_name;
 };
 
 
@@ -206,11 +212,6 @@ d3.json("ENIF2018.json",function(error,data)
     var options_age = select_age.selectAll('option').data(age).enter().append('option').text(function(d){return d;});
     var select_occup = d3.select("#occupation_control").append('select').attr('class','select_occup').on("change",function(){update_waffle();});
     var options_occup = select_occup.selectAll('option').data(occup).enter().append('option').text(function(d){return d;});
-
-//    d3.select("select").on("change",function(){update_waffle();});
-
-
-
 
     var update_waffle = function(){
       var gender_value=d3.select("select.select_gender").property("value");
