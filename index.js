@@ -1,11 +1,25 @@
 //Define plot variables:
-var margin = {left: 45,right: 45,top: 45,bottom: 45};
-var width = 450 - margin.left - margin.right;
-var height = 450 - margin.top - margin.bottom;
-const plotWidth = width - margin.left - margin.right;
-const plotHeight = height - margin.bottom - margin.top;
+var aux_size = Math.min(450,window.innerWidth);
+var margin = {left:0.1,right:0.1 ,top:0.1,bottom:0.1};
+var width = aux_size*(1 - margin.left - margin.right);
+var height = aux_size*(1 - margin.top - margin.bottom);
+var plotWidth = width*0.75;
+var plotHeight = height*0.75;
 var columns = 10;
 var rows = 10;
+
+var aspect = width / height;
+d3.select(window)
+  .on("resize", function() {
+    aux_size = Math.min(450,window.innerWidth);
+    margin = {left:0.1,right:0.1 ,top:0.1,bottom:0.1};
+    width = aux_size*(1 - margin.left - margin.right);
+    height = aux_size*(1 - margin.top - margin.bottom);
+    plotWidth = width*0.75;
+    plotHeight = height*0.75;
+
+  });
+
 
 //Data variables:
 var gender = ["All","Males", "Females"];
@@ -118,8 +132,8 @@ function y_scale(columns,min_y,max_y){
   return d3.scaleLinear().domain([0,columns+1]).range([min_y,max_y]);
 };
 
-var xScale = x_scale(rows,margin.left,plotWidth);
-var yScale = y_scale(columns,plotHeight,margin.bottom);
+var xScale = x_scale(rows,aux_size*margin.left,plotWidth);
+var yScale = y_scale(columns,plotHeight,aux_size*margin.bottom);
 
 //This function format a number with commas:
 function numberWithCommas(x) {
@@ -134,22 +148,34 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
   var units = get_units(data_ENIF2018,indicator);
   var data_points = gen_points_data(rows,columns,squareSize,units);
 
+  //svg_name.selectAll("rect").transition().ease(d3.easeElastic).duration(4000);
+
+
   svg_name.selectAll("rect")
       .data(data_points)
       .enter()
       .append("rect")
-      .attr("x",function(d){return xScale(d[0]);})
-      .attr("y",function(d){return yScale(d[1]);})
-      .attr("width", (plotWidth-margin.left)/(rows+1)-1)
-      .attr("height", (plotHeight-margin.bottom)/(columns+1)-1)
-      .attr("class",function(d){return d[5];})
       .append("title")
           .text(function(d){
             var aux="";
             if(d[5]=="color_this"){aux = "Estimated inhabitants with the service: "+numberWithCommas(units);}
             else {aux = "Estimated inhabitants without the service: "+numberWithCommas(total-units);};
             return aux;
-            });
+          });
+
+  svg_name.selectAll("rect")
+      .data(data_points)
+      .attr("x",function(d){return xScale(d[0]);})
+      .attr("y",function(d){return yScale(d[1]);})
+      .transition()
+      .ease(d3.easeElastic)
+      .duration(1000)
+      .delay(function(d,i) { return i*4;})
+      .attr("x",function(d){return xScale(d[0]);})
+      .attr("y",function(d){return yScale(d[1]);})
+      .attr("class",function(d){return d[5];})
+      .attr("height", (plotHeight-aux_size*margin.bottom)/(columns+1)-1)
+      .attr("width", (plotWidth-aux_size*margin.left)/(rows+1)-1);
 
   svg_name.append("text")
       .attr("y",1.05*plotHeight)
@@ -160,7 +186,7 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
       .text("1 square: "+numberWithCommas(squareSize)+" inhabitants");
 
   svg_name.append("text")
-      .attr("y",1.3*margin.top)
+      .attr("y",1.3*aux_size*margin.top)
       .attr("x",xScale(6))
       .attr("class","legend")
       .style("text-anchor", "middle")
@@ -168,7 +194,7 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
       .text("Percentage of population: "+Math.round(units/total*10000)/100+"%");
 
   svg_name.append("text")
-      .attr("y",margin.top)
+      .attr("y",aux_size*margin.top)
       .attr("x",xScale(6))
       .attr("class","legend")
       .style("text-anchor", "middle")
@@ -185,10 +211,10 @@ d3.json("ENIF2018.json",function(error,data)
   if (error) {return console.warn(error);}
   else{
     dd=data;
-    var svg1 = d3.select("#graph1_area").append("svg").attr("width",width).attr("height",height);
-    var svg2 = d3.select("#graph2_area").append("svg").attr("width",width).attr("height",height);
-    var svg3 = d3.select("#graph3_area").append("svg").attr("width",width).attr("height",height);
-    var svg4 = d3.select("#graph4_area").append("svg").attr("width",width).attr("height",height);
+    var svg1 = d3.select("#graph1_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
+    var svg2 = d3.select("#graph2_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
+    var svg3 = d3.select("#graph3_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
+    var svg4 = d3.select("#graph4_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
 
     //Deposits
     waffle_plot_ecm(svg1,"deposits",data,"#graph1_area","Debit account");
@@ -224,6 +250,7 @@ d3.json("ENIF2018.json",function(error,data)
       var aux_data = filter_data(dd,gender_value,region_value,size_value,educ_value,age_value,occup_value);
       d3.selectAll("text.legend").remove();
       d3.selectAll("rect").remove();
+
       //Deposits
       waffle_plot_ecm(svg1,"deposits",aux_data,"#graph1_area","Debit account");
      //Credits

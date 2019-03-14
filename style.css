@@ -1,8 +1,8 @@
 /*CSS Format for the non d3 elements.*/
 body
 {
-  max-width: 2000px;
-  max-height: 2000px
+  max-width: 1500px;
+  max-height: 1500px
   margin: 25px 50px 25px 50px;
   font-family: Verdana, Geneva, sans-serif;
   text-align: justify;
