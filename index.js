@@ -211,10 +211,10 @@ d3.json("ENIF2018.json",function(error,data)
   if (error) {return console.warn(error);}
   else{
     dd=data;
-    var svg1 = d3.select("#graph1_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
-    var svg2 = d3.select("#graph2_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
-    var svg3 = d3.select("#graph3_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
-    var svg4 = d3.select("#graph4_area").append("svg").attr("width",width).attr("height",height).attr("id","svg_waffle");
+    var svg1 = d3.select("#graph1_area").append("svg").attr("width",width).attr("height",height).attr('viewBox','0 0 '+Math.min(width,height)+' '+Math.min(width,height));
+    var svg2 = d3.select("#graph2_area").append("svg").attr("width",width).attr("height",height).attr('viewBox','0 0 '+Math.min(width,height)+' '+Math.min(width,height));
+    var svg3 = d3.select("#graph3_area").append("svg").attr("width",width).attr("height",height).attr('viewBox','0 0 '+Math.min(width,height)+' '+Math.min(width,height));
+    var svg4 = d3.select("#graph4_area").append("svg").attr("width",width).attr("height",height).attr('viewBox','0 0 '+Math.min(width,height)+' '+Math.min(width,height));
 
     //Deposits
     waffle_plot_ecm(svg1,"deposits",data,"#graph1_area","Debit account");
