@@ -87,7 +87,6 @@ function filter_data(data,gender_value,region_value,size_value,educ_value,age_va
               .key(function(d){ return d[indicator];})
               .rollup(function(levels){return d3.sum(levels,function(d){return d.PWT;});})
               .entries(data).map(function(d){return {[indicator]: d.key, PWT: d.value}});
-
   return aux;
 };
 
@@ -143,12 +142,21 @@ function numberWithCommas(x) {
 //This function creates the waffle plots:
 function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
   var data_ENIF2018 = get_data(data,indicator);
+  var aux="";
+  if (data_ENIF2018.length==0){
+    aux="Non available data for this filter.";
+    svg_name.append("text")
+        .attr("y",aux_size*1.5*margin.top)
+        .attr("x",xScale(6))
+        .style("text-anchor","middle")
+        .style("font-size","14px")
+        .text(aux);
+  }
+  else{
   var total = get_total(data_ENIF2018);
   var squareSize = total/(columns*rows);
   var units = get_units(data_ENIF2018,indicator);
   var data_points = gen_points_data(rows,columns,squareSize,units);
-
-  //svg_name.selectAll("rect").transition().ease(d3.easeElastic).duration(4000);
 
 
   svg_name.selectAll("rect")
@@ -200,6 +208,8 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
       .style("text-anchor", "middle")
       .style("font-size", "14px")
       .text(svg_title);
+
+};
 
 };
 
