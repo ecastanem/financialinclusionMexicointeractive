@@ -1,5 +1,5 @@
 //Define plot variables:
-var aux_size = Math.min(450,window.innerWidth);
+var aux_size = Math.min(400,window.innerWidth);
 var margin = {left:0.1,right:0.1 ,top:0.1,bottom:0.1};
 var width = aux_size*(1 - margin.left - margin.right);
 var height = aux_size*(1 - margin.top - margin.bottom);
