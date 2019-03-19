@@ -148,6 +148,7 @@ function waffle_plot_ecm(svg_name,indicator,data,svg_area,svg_title){
     svg_name.append("text")
         .attr("y",aux_size*1.5*margin.top)
         .attr("x",xScale(6))
+        .attr("class","legend")
         .style("text-anchor","middle")
         .style("font-size","14px")
         .text(aux);

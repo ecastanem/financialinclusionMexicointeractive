@@ -1,0 +1,6050 @@
+[
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "account.t.d",
+    "2017": 14.8933
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 0.5137
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin18.t.d",
+    "2017": 14.0166
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.3624
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin2.t.a",
+    "2017": 2.7077
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 14.3053
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin32.t.a",
+    "2017": 17.8852
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin37.t.a",
+    "2017": 1.891
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin46.a",
+    "2017": 11.2656
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.0637
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 8.9441
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "g20.t",
+    "2017": 10.8268
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 0.9138
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 618.3328
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "account.t.d",
+    "2017": 40.0152
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.3368
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin18.t.d",
+    "2017": 25.8798
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin19.t.a",
+    "2017": 8.4687
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin2.t.a",
+    "2017": 26.886
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 25.7968
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin32.t.a",
+    "2017": 24.7636
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin37.t.a",
+    "2017": 7.65
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin46.a",
+    "2017": 5.2781
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fin7.t.a",
+    "2017": 8.0166
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 32.3011
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "g20.t",
+    "2017": 28.8224
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.3778
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4868.1973
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "account.t.d",
+    "2017": 48.7085
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 18.6157
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin18.t.d",
+    "2017": 30.3145
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.1997
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin2.t.a",
+    "2017": 41.3717
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 12.32
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin32.t.a",
+    "2017": 33.4055
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin37.t.a",
+    "2017": 14.8189
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin46.a",
+    "2017": 14.7189
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fin7.t.a",
+    "2017": 23.9686
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 24.9972
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "g20.t",
+    "2017": 40.178
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.4162
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 10398.0925
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "account.t.d",
+    "2017": 47.759
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 15.4303
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 31.2523
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 16.6332
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 25.7061
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 31.9059
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 24.2638
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 14.2016
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin46.a",
+    "2017": 3.9762
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 8.1041
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 36.3342
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "g20.t",
+    "2017": 41.5157
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 9.7553
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4219.3685
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "account.t.d",
+    "2017": 38.4892
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.5421
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 49.3418
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.991
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 10.5955
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 41.841
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 15.7989
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 3.3012
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin46.a",
+    "2017": 8.8878
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 6.1356
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 9.2018
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "g20.t",
+    "2017": 28.4753
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 18.0938
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 859.9527
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "account.t.d",
+    "2017": 43.16
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.3606
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 53.9316
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.0621
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 12.3569
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 49.9302
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 18.2947
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.8908
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin46.a",
+    "2017": 7.5947
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 4.8168
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 16.0294
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "g20.t",
+    "2017": 38.9153
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 33.0228
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 688.5339
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "account.t.d",
+    "2017": 50.0469
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.5302
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin18.t.d",
+    "2017": 27.5157
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.1675
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin2.t.a",
+    "2017": 6.1984
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 29.0326
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin32.t.a",
+    "2017": 14.2455
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin37.t.a",
+    "2017": 5.8525
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin46.a",
+    "2017": 8.0663
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.2
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 7.7277
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "g20.t",
+    "2017": 34.1108
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 21.246
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1093.0493
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "account.t.d",
+    "2017": 54.4051
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 8.9508
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin18.t.d",
+    "2017": 54.8287
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin19.t.a",
+    "2017": 12.0441
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin2.t.a",
+    "2017": 28.0462
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 32.4662
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin32.t.a",
+    "2017": 29.5444
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin37.t.a",
+    "2017": 17.2203
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin46.a",
+    "2017": 27.4114
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fin7.t.a",
+    "2017": 7.1642
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 27.5167
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "g20.t",
+    "2017": 40.0242
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 7.1194
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2522.7939
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "account.t.d",
+    "2017": 70.0439
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 17.5958
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 32.4947
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.65
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 59.3446
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 15.1529
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 35.3954
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 18.7489
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin46.a",
+    "2017": 15.5948
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 27.0289
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 26.912
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "g20.t",
+    "2017": 57.8598
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 4.8365
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 10888.9824
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "account.t.d",
+    "2017": 51.0325
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 10.4798
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 46.8432
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.0085
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 27.1699
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 32.0702
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 26.8644
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 10.2823
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin46.a",
+    "2017": 5.2563
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 7.2491
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 21.4131
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "g20.t",
+    "2017": 41.8077
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 24.3783
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 7523.2163
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "account.t.d",
+    "2017": 74.3492
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 29.4575
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin18.t.d",
+    "2017": 49.1767
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.3754
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin2.t.a",
+    "2017": 59.8146
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 26.6634
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin32.t.a",
+    "2017": 43.781
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin37.t.a",
+    "2017": 22.3743
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin46.a",
+    "2017": 11.8123
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fin7.t.a",
+    "2017": 29.8468
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 34.201
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "g20.t",
+    "2017": 65.3766
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 18.6708
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 15059.5301
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "account.t.d",
+    "2017": 41.331
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.1168
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin18.t.d",
+    "2017": 48.9828
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.6857
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin2.t.a",
+    "2017": 7.0752
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 54.6345
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin32.t.a",
+    "2017": 15.4362
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.371
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin46.a",
+    "2017": 9.2115
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.3463
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 6.3152
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "g20.t",
+    "2017": 38.3178
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 34.0532
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1632.6775
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "account.t.d",
+    "2017": 34.5908
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.5945
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 56.9709
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.8533
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 11.2479
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 52.3695
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 20.4518
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 3.858
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin46.a",
+    "2017": 11.4192
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.0465
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 9.5939
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "g20.t",
+    "2017": 28.5827
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 15.1378
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1503.5346
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "account.t.d",
+    "2017": 25.8257
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.1455
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin18.t.d",
+    "2017": 38.9367
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin19.t.a",
+    "2017": 1.9033
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin2.t.a",
+    "2017": 6.4592
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 37.0491
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin32.t.a",
+    "2017": 14.101
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin37.t.a",
+    "2017": 1.8626
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin46.a",
+    "2017": 11.5151
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.4499
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 6.0582
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "g20.t",
+    "2017": 21.7163
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 16.0963
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 409.1174
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "account.t.d",
+    "2017": 26.0928
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.4032
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin18.t.d",
+    "2017": 45.6698
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.8026
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin2.t.a",
+    "2017": 11.5246
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 41.6928
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin32.t.a",
+    "2017": 16.7888
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.4599
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin46.a",
+    "2017": 8.1287
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.9677
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 7.2646
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "g20.t",
+    "2017": 17.8145
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 6.2384
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2576.3961
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "account.t.d",
+    "2017": 45.7592
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 11.6576
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin18.t.d",
+    "2017": 38.7594
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.9177
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin2.t.a",
+    "2017": 25.6548
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 32.9358
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin32.t.a",
+    "2017": 30.13
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin37.t.a",
+    "2017": 13.0053
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin46.a",
+    "2017": 15.7505
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fin7.t.a",
+    "2017": 13.9102
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 19.9474
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "g20.t",
+    "2017": 37.3274
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 4.7375
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 7600.7591
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "account.t.d",
+    "2017": 56.2392
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 12.7669
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 51.8903
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 8.6077
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 32.4338
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 43.9262
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 35.6773
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 13.1388
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin46.a",
+    "2017": 12.4795
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 16.4281
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 25.0075
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "g20.t",
+    "2017": 44.389
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.8947
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 7153.0787
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "account.t.d",
+    "2017": 51.246
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.6946
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin18.t.d",
+    "2017": 33.9095
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.4459
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin2.t.a",
+    "2017": 28.4191
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 18.1236
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin32.t.a",
+    "2017": 25.0902
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.7086
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin46.a",
+    "2017": 13.9649
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fin7.t.a",
+    "2017": 8.6624
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 14.2476
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "g20.t",
+    "2017": 31.5561
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.937
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 5269.6176
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "account.t.d",
+    "2017": 32.7844
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.4894
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin18.t.d",
+    "2017": 30.6393
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.8917
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin2.t.a",
+    "2017": 24.7565
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 19.5374
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin32.t.a",
+    "2017": 28.7795
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.6312
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin46.a",
+    "2017": 7.5045
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.3348
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 23.2036
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "g20.t",
+    "2017": 22.832
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 1.792
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2785.37
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "account.t.d",
+    "2017": 34.8276
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 0.5775
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin18.t.d",
+    "2017": 62.1826
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.1798
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin2.t.a",
+    "2017": 4.3166
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 23.8694
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin32.t.a",
+    "2017": 15.9063
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin37.t.a",
+    "2017": 7.2024
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin46.a",
+    "2017": 7.2247
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.2909
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 13.2676
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "g20.t",
+    "2017": 11.8925
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 0.3159
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 549.8479
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "account.t.d",
+    "2017": 58.602
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 17.1664
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin18.t.d",
+    "2017": 59.6024
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.5293
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin2.t.a",
+    "2017": 16.3015
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 60.9323
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin32.t.a",
+    "2017": 31.3707
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.5051
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin46.a",
+    "2017": 6.4714
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fin7.t.a",
+    "2017": 5.8944
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 17.9512
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "g20.t",
+    "2017": 53.9989
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 43.578
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 9442.0263
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "account.t.d",
+    "2017": 61.2304
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 13.5202
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin18.t.d",
+    "2017": 15.004
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin19.t.a",
+    "2017": 16.3077
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin2.t.a",
+    "2017": 39.9006
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 19.7317
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin32.t.a",
+    "2017": 24.7643
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin37.t.a",
+    "2017": 19.1722
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin46.a",
+    "2017": 2.6307
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fin7.t.a",
+    "2017": 14.5872
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 47.3477
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "g20.t",
+    "2017": 52.9539
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.201
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4290.1679
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "account.t.d",
+    "2017": 57.7175
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.7626
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 50.24
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.5269
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 18.569
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 57.5681
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 21.4846
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.9259
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin46.a",
+    "2017": 12.2446
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 5.7548
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 15.4127
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "g20.t",
+    "2017": 49.4667
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 38.9478
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1813.8356
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "account.t.d",
+    "2017": 23.486
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.4564
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 39.0894
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.3737
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 6.5102
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 38.9099
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 14.2479
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.9787
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin46.a",
+    "2017": 7.1589
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.7693
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 10.1003
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "g20.t",
+    "2017": 20.2479
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 13.7805
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 822.9256
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "account.t.d",
+    "2017": 44.107
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.615
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 42.2555
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.6576
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 15.8656
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 20.4396
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 20.3574
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 5.5931
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin46.a",
+    "2017": 16.2276
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 6.5869
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 12.2784
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "g20.t",
+    "2017": 33.2707
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.1264
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3124.2104
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "account.t.d",
+    "2017": 45.343
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.9576
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin18.t.d",
+    "2017": 41.7197
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.4049
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin2.t.a",
+    "2017": 16.9247
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 27.2841
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin32.t.a",
+    "2017": 23.7008
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.3249
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin46.a",
+    "2017": 9.4892
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fin7.t.a",
+    "2017": 4.5199
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 14.1997
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "g20.t",
+    "2017": 37.2004
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 6.196
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2210.5873
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "account.t.d",
+    "2017": 32.6212
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 8.5074
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin18.t.d",
+    "2017": 44.0518
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.9808
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin2.t.a",
+    "2017": 10.8566
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 39.2894
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin32.t.a",
+    "2017": 9.8439
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.4734
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin46.a",
+    "2017": 6.8227
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fin7.t.a",
+    "2017": 6.8873
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 10.1203
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "g20.t",
+    "2017": 27.5212
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 13.5172
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 728.9204
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "account.t.d",
+    "2017": 48.8575
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 11.1731
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 61.776
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.9924
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 30.8111
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 33.3288
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 36.239
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 16.3457
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin46.a",
+    "2017": 20.925
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.4395
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 21.8049
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "g20.t",
+    "2017": 34.6083
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.1239
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4130.6633
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "account.t.d",
+    "2017": 79.8753
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.2675
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin18.t.d",
+    "2017": 33.5567
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.6448
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin2.t.a",
+    "2017": 32.722
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 19.243
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin32.t.a",
+    "2017": 20.4257
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.2046
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin46.a",
+    "2017": 3.8048
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.0035
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 13.8493
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "g20.t",
+    "2017": 28.6926
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 1.9945
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1963.5463
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "account.t.d",
+    "2017": 42.493
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 8.0415
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 45.1708
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 14.1697
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 30.7617
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 24.2274
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 24.8906
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.0916
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin46.a",
+    "2017": 8.833
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.5281
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 25.3184
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "g20.t",
+    "2017": 32.5323
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 1.061
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3238.252
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "account.t.d",
+    "2017": 81.5676
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 26.149
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 70.3242
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 8.3863
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 37.5505
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 66.5538
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 35.9832
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 12.4689
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin46.a",
+    "2017": 14.3086
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 5.6875
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 19.3331
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "g20.t",
+    "2017": 78.9628
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 72.9317
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1169.3436
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "account.t.d",
+    "2017": 39.942
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.0106
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin18.t.d",
+    "2017": 23.7031
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin19.t.a",
+    "2017": 8.8251
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin2.t.a",
+    "2017": 19.3189
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 34.5942
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin32.t.a",
+    "2017": 30.2259
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.4494
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin46.a",
+    "2017": 3.971
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.6253
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 27.1643
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "g20.t",
+    "2017": 36.0611
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.1069
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1070.3234
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "account.t.d",
+    "2017": 21.6718
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.7743
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 51.549
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 16.1304
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 7.1943
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 41.6049
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 31.459
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.876
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin46.a",
+    "2017": 16.0593
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.5541
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 10.992
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "g20.t",
+    "2017": 15.5684
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 5.6595
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1135.1519
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "account.t.d",
+    "2017": 35.7138
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 2.3717
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 68.0941
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.0523
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 4.3025
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 53.7488
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 19.6755
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.4104
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin46.a",
+    "2017": 20.7878
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.2636
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 8.9882
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "g20.t",
+    "2017": 27.6318
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 20.8434
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 352.286
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "account.t.d",
+    "2017": 73.6465
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 6.1807
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 42.9284
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.9911
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 32.2558
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 20.2584
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 20.3663
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 13.4939
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin46.a",
+    "2017": 6.3823
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 5.3366
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 22.0993
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "g20.t",
+    "2017": 47.1597
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.4208
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3842.296
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "account.t.d",
+    "2017": 45.5638
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.6415
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin18.t.d",
+    "2017": 39.5405
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.9346
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin2.t.a",
+    "2017": 20.4472
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 44.1911
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin32.t.a",
+    "2017": 21.3487
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.3567
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin46.a",
+    "2017": 6.1238
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.4411
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 19.5584
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "g20.t",
+    "2017": 37.8147
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 27.6418
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1409.2169
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "account.t.d",
+    "2017": 28.6445
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 2.0253
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 21.3594
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.8358
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 21.1224
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 20.8202
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 17.3015
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.354
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin46.a",
+    "2017": 7.1984
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.1857
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 8.3629
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "g20.t",
+    "2017": 16.7149
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 0.6392
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3292.4451
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "account.t.d",
+    "2017": 17.8679
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 1.7117
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin18.t.d",
+    "2017": 44.287
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.4248
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin2.t.a",
+    "2017": 3.2467
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 32.6078
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin32.t.a",
+    "2017": 30.5014
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.4171
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin46.a",
+    "2017": 3.6821
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.9612
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 5.1667
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "g20.t",
+    "2017": 15.0444
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 12.0553
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 421.8912
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "account.t.d",
+    "2017": 36.9319
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 13.1751
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin18.t.d",
+    "2017": 40.5771
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.3222
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin2.t.a",
+    "2017": 24.6276
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 16.0488
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin32.t.a",
+    "2017": 27.6897
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin37.t.a",
+    "2017": 12.1734
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin46.a",
+    "2017": 10.3977
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fin7.t.a",
+    "2017": 9.5285
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 18.445
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "g20.t",
+    "2017": 31.7405
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 5.5526
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 9946.158
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "account.t.d",
+    "2017": 35.4167
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.7358
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin18.t.d",
+    "2017": 53.8097
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.9038
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin2.t.a",
+    "2017": 9.5124
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 40.9085
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin32.t.a",
+    "2017": 17.0198
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.0972
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin46.a",
+    "2017": 9.3051
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fin7.t.a",
+    "2017": 6.6608
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 13.3273
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "g20.t",
+    "2017": 30.9665
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 24.3976
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 762.226
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "account.t.d",
+    "2017": 25.9923
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.6193
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 36.2271
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.0442
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 4.8804
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 15.1338
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 34.771
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.9766
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin46.a",
+    "2017": 16.207
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.0561
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 7.9689
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "g20.t",
+    "2017": 7.7083
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 0.6905
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1484.2007
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "account.t.d",
+    "2017": 92.9712
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 17.1
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin18.t.d",
+    "2017": 31.276
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin19.t.a",
+    "2017": 15.576
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin2.t.a",
+    "2017": 75.7024
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 49.366
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin32.t.a",
+    "2017": 41.0583
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin37.t.a",
+    "2017": 26.5155
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin46.a",
+    "2017": 11.3253
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.2081
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 33.6017
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "g20.t",
+    "2017": 85.2695
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 21.8971
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4071.0933
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "account.t.d",
+    "2017": 41.6701
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.4782
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin18.t.d",
+    "2017": 42.8764
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.9817
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin2.t.a",
+    "2017": 19.8372
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 35.9097
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin32.t.a",
+    "2017": 21.0213
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.9193
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin46.a",
+    "2017": 11.898
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fin7.t.a",
+    "2017": 8.9488
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 17.187
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "g20.t",
+    "2017": 34.1069
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 21.8668
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 518.9609
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "account.t.d",
+    "2017": 20.8725
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.7736
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin18.t.d",
+    "2017": 41.7446
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.4932
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin2.t.a",
+    "2017": 9.9473
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 48.5061
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin32.t.a",
+    "2017": 17.0948
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.9967
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin46.a",
+    "2017": 9.8312
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.3104
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 10.7095
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "g20.t",
+    "2017": 15.6898
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 4.0124
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1305.205
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "account.t.d",
+    "2017": 33.7139
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 8.3092
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin18.t.d",
+    "2017": 51.827
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.5997
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin2.t.a",
+    "2017": 11.1746
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 31.1722
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin32.t.a",
+    "2017": 25.9305
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.2067
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin46.a",
+    "2017": 12.9966
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.2944
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 11.4953
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "g20.t",
+    "2017": 27.6124
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 20.3028
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 486.4453
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "account.t.d",
+    "2017": 85.3438
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 38.8228
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin18.t.d",
+    "2017": 63.2556
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.4782
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin2.t.a",
+    "2017": 73.7592
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 35.6515
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin32.t.a",
+    "2017": 38.3067
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin37.t.a",
+    "2017": 26.3734
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin46.a",
+    "2017": 7.3122
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fin7.t.a",
+    "2017": 21.3149
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 34.2247
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "g20.t",
+    "2017": 70.4196
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 10.8763
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 11521.4545
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "account.t.d",
+    "2017": 80.6335
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 18.3456
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 62.6936
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 9.3731
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 65.0829
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 70.6412
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 39.1516
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 18.1174
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin46.a",
+    "2017": 15.8558
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 15.3788
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 35.6544
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "g20.t",
+    "2017": 71.4194
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 43.4295
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 5854.8616
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "account.t.d",
+    "2017": 15.5232
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 3.9589
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin18.t.d",
+    "2017": 24.9845
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin19.t.a",
+    "2017": 1.0995
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin2.t.a",
+    "2017": 2.9474
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 26.1788
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin32.t.a",
+    "2017": 10.1775
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin37.t.a",
+    "2017": 5.9697
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin46.a",
+    "2017": 5.0588
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.0522
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 9.9007
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "g20.t",
+    "2017": 13.0276
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 8.7172
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 395.9373
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "account.t.d",
+    "2017": 39.6669
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 6.266
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 61.9604
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.5635
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 31.5509
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 51.413
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 18.6437
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.6596
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin46.a",
+    "2017": 19.1023
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.5893
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 8.1635
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "g20.t",
+    "2017": 29.6604
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 5.6062
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2412.41
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "account.t.d",
+    "2017": 30.862
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 6.7359
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin18.t.d",
+    "2017": 44.7767
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.7988
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin2.t.a",
+    "2017": 15.6961
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 21.9259
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin32.t.a",
+    "2017": 31.5594
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.5365
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin46.a",
+    "2017": 13.4421
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fin7.t.a",
+    "2017": 4.936
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 19.6436
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "g20.t",
+    "2017": 24.5721
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.9274
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2016.3199
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "account.t.d",
+    "2017": 21.2932
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.9546
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin18.t.d",
+    "2017": 35.135
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin19.t.a",
+    "2017": 1.0977
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin2.t.a",
+    "2017": 8.3046
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 19.0226
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin32.t.a",
+    "2017": 13.9867
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin37.t.a",
+    "2017": 2.2417
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin46.a",
+    "2017": 5.7527
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.9727
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 4.0121
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "g20.t",
+    "2017": 17.6908
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 6.8856
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1222.5239
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "account.t.d",
+    "2017": 46.4943
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.29
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 48.3872
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 9.2152
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 29.2553
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 29.1405
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 28.5062
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 18.3492
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin46.a",
+    "2017": 10.8236
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 7.9997
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 28.1525
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "g20.t",
+    "2017": 35.0298
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.5032
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 11513.2777
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "account.t.d",
+    "2017": 42.6032
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 7.0175
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin18.t.d",
+    "2017": 40.1447
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.2273
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin2.t.a",
+    "2017": 27.9196
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 25.1901
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin32.t.a",
+    "2017": 29.7281
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.1466
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin46.a",
+    "2017": 13.807
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fin7.t.a",
+    "2017": 11.5736
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 17.8477
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "g20.t",
+    "2017": 33.8967
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.6342
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 6172.6936
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "account.t.d",
+    "2017": 34.4984
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.8601
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin18.t.d",
+    "2017": 58.7067
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.1748
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin2.t.a",
+    "2017": 21.0113
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 45.3088
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin32.t.a",
+    "2017": 37.958
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin37.t.a",
+    "2017": 20.5872
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin46.a",
+    "2017": 13.5703
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.939
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 28.2182
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "g20.t",
+    "2017": 25.0894
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 4.5213
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 2891.3589
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "account.t.d",
+    "2017": 48.6469
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.6647
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin18.t.d",
+    "2017": 27.0956
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.067
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin2.t.a",
+    "2017": 15.4483
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 32.2005
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin32.t.a",
+    "2017": 40.7737
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.6291
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin46.a",
+    "2017": 16.9768
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fin7.t.a",
+    "2017": 6.5516
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 15.2803
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "g20.t",
+    "2017": 44.5915
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 28.8818
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3905.93
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "account.t.d",
+    "2017": 57.7518
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 19.2322
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin18.t.d",
+    "2017": 33.5266
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin19.t.a",
+    "2017": 16.0717
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin2.t.a",
+    "2017": 49.3573
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 24.04
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin32.t.a",
+    "2017": 41.5502
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin37.t.a",
+    "2017": 11.0184
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin46.a",
+    "2017": 2.3091
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fin7.t.a",
+    "2017": 11.7249
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 54.9914
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "g20.t",
+    "2017": 47.2252
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.9902
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 10932.3271
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "account.t.d",
+    "2017": 50.0198
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.571
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 63.8098
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 6.5934
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 4.6973
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 45.7212
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 35.2251
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.987
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin46.a",
+    "2017": 4.2222
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.7319
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 13.0882
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "g20.t",
+    "2017": 38.9231
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 31.1146
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 765.2246
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "account.t.d",
+    "2017": 42.344
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 10.4037
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 45.107
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.2852
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 9.5737
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 46.4024
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 14.8215
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 7.7761
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin46.a",
+    "2017": 8.138
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.8302
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 12.8726
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "g20.t",
+    "2017": 39.5242
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 31.7981
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1134.0822
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "account.t.d",
+    "2017": 97.9312
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 56.6496
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin18.t.d",
+    "2017": 76.8802
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin19.t.a",
+    "2017": 20.4779
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin2.t.a",
+    "2017": 91.8473
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 23.7383
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin32.t.a",
+    "2017": 60.1099
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin37.t.a",
+    "2017": 23.5491
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin46.a",
+    "2017": 7.9256
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fin7.t.a",
+    "2017": 48.8977
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 36.3321
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "g20.t",
+    "2017": 90.1015
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 9.548
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 55235.5129
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "account.t.d",
+    "2017": 19.8088
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 4.1209
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin18.t.d",
+    "2017": 54.232
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.0423
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin2.t.a",
+    "2017": 1.7335
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 34.6234
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin32.t.a",
+    "2017": 11.5933
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.631
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin46.a",
+    "2017": 11.3514
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.4633
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 8.0761
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "g20.t",
+    "2017": 15.615
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 11.0186
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 462.4576
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "account.t.d",
+    "2017": 30.3529
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 5.6089
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin18.t.d",
+    "2017": 37.9339
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.4057
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin2.t.a",
+    "2017": 18.9477
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 12.7527
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin32.t.a",
+    "2017": 24.4733
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin37.t.a",
+    "2017": 8.7024
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin46.a",
+    "2017": 14.9648
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fin7.t.a",
+    "2017": 5.6563
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 16.3741
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "g20.t",
+    "2017": 23.6029
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.5496
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 3463.5436
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "account.t.d",
+    "2017": 21.7592
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 2.5039
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin18.t.d",
+    "2017": 26.8786
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin19.t.a",
+    "2017": 3.1969
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin2.t.a",
+    "2017": 3.0626
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 29.4714
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin32.t.a",
+    "2017": 10.7571
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin37.t.a",
+    "2017": 3.1752
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin46.a",
+    "2017": 7.1059
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.9856
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 6.4331
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "g20.t",
+    "2017": 19.0424
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 15.2334
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 823.4349
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "account.t.d",
+    "2017": 45.2894
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 6.5826
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin18.t.d",
+    "2017": 45.2252
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.9388
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin2.t.a",
+    "2017": 13.4483
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 41.8885
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin32.t.a",
+    "2017": 15.9106
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.346
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin46.a",
+    "2017": 9.1373
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fin7.t.a",
+    "2017": 3.5125
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 11.2761
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "g20.t",
+    "2017": 31.33
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 21.4574
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 577.3823
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "account.t.d",
+    "2017": 81.594
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 18.6708
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 61.79
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 11.0065
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 59.8461
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 53.2792
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 37.3104
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 35.4959
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin46.a",
+    "2017": 16.3984
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 9.7998
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 41.5435
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "g20.t",
+    "2017": 62.2739
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 8.2569
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 6125.6603
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "account.t.d",
+    "2017": 36.9066
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 6.5906
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin18.t.d",
+    "2017": 39.3963
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.9881
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin2.t.a",
+    "2017": 23.4555
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 31.5277
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin32.t.a",
+    "2017": 18.7696
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin37.t.a",
+    "2017": 6.828
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin46.a",
+    "2017": 7.6178
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fin7.t.a",
+    "2017": 7.13
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 14.8104
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "g20.t",
+    "2017": 29.4126
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 2.0372
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 4303.9636
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "account.t.d",
+    "2017": 68.5903
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 36.2448
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin18.t.d",
+    "2017": 39.0694
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin19.t.a",
+    "2017": 10.9693
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin2.t.a",
+    "2017": 62.9852
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 29.162
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin32.t.a",
+    "2017": 39.2872
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin37.t.a",
+    "2017": 10.6397
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin46.a",
+    "2017": 3.8317
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fin7.t.a",
+    "2017": 41.5984
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 24.6806
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "g20.t",
+    "2017": 63.7565
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 16.412
+  },
+  {
+    "Country Name": "Turkey",
+    "Country Code": "TUR",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 14933.2652
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "account.t.d",
+    "2017": 46.7516
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 11.5806
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 48.3889
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 4.531
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 13.2672
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 46.084
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 14.371
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 4.7586
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin46.a",
+    "2017": 19.3762
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 0.5415
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 7.9671
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "g20.t",
+    "2017": 42.9927
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 38.538
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 900.523
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "account.t.d",
+    "2017": 59.1992
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.4693
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin18.t.d",
+    "2017": 68.5554
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin19.t.a",
+    "2017": 13.0261
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin2.t.a",
+    "2017": 16.5689
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 57.5049
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin32.t.a",
+    "2017": 25.0407
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin37.t.a",
+    "2017": 9.7294
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin46.a",
+    "2017": 11.5965
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fin7.t.a",
+    "2017": 2.3193
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 15.2187
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "g20.t",
+    "2017": 54.6898
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 50.5812
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 666.6058
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "account.t.d",
+    "2017": 30.7958
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 20.5372
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin18.t.d",
+    "2017": 57.404
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin19.t.a",
+    "2017": 9.1772
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin2.t.a",
+    "2017": 26.7382
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 24.6845
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin32.t.a",
+    "2017": 28.5542
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin37.t.a",
+    "2017": 10.0594
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin46.a",
+    "2017": 17.1039
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fin7.t.a",
+    "2017": 4.1203
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 15.2198
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "g20.t",
+    "2017": 22.7357
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 3.4995
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1834.6516
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "account.t.d",
+    "2017": 69.2185
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 14.1306
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin18.t.d",
+    "2017": 59.3297
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin19.t.a",
+    "2017": 5.6667
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin2.t.a",
+    "2017": 34.1276
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 50.6593
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin32.t.a",
+    "2017": 32.2623
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin37.t.a",
+    "2017": 25.5025
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin46.a",
+    "2017": 12.8399
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fin7.t.a",
+    "2017": 8.8723
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 36.1307
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "g20.t",
+    "2017": 60.1071
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 19.0168
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 7524.5112
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "account.t.d",
+    "2017": 45.8633
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 11.2904
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin18.t.d",
+    "2017": 58.7379
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin19.t.a",
+    "2017": 7.8352
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin2.t.a",
+    "2017": 19.5642
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 44.5026
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin32.t.a",
+    "2017": 21.2012
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin37.t.a",
+    "2017": 7.337
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin46.a",
+    "2017": 11.9214
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fin7.t.a",
+    "2017": 4.2666
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 13.9879
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "g20.t",
+    "2017": 38.7377
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 27.8424
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 1646.1438
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "account.t.d",
+    "2017": 55.2851
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin14abca.t.d",
+    "2017": 9.5356
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin18.t.d",
+    "2017": 53.594
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin19.t.a",
+    "2017": 2.9343
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin2.t.a",
+    "2017": 21.9492
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin26.28.t.a",
+    "2017": 55.028
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin32.t.a",
+    "2017": 22.5512
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin37.t.a",
+    "2017": 11.1063
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin46.a",
+    "2017": 19.3889
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fin7.t.a",
+    "2017": 1.3416
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "fing2p.t.d",
+    "2017": 15.7328
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "g20.t",
+    "2017": 52.5039
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "mobileaccount.t.d",
+    "2017": 48.5816
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Indicator Code": "NY.GDP.PCAP.KD",
+    "2017": 927.3987
+  }
+]
